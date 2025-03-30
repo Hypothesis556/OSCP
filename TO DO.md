@@ -1,0 +1,6 @@
+- ~~find alternative RDP bruteforcing methods~~
+- ~~Create templates~~
+- run through juggernaut and get more mimikatz commands
+- Get all potatoe attacks in on place
+- Redo betamonitor section to see how environment variable was viewed
+- Find way to update IP addresses w global variabls so you dant have to lookup 3rd octet all the time
